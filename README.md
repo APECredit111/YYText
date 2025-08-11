@@ -36,7 +36,7 @@ Architecture
 ==============
 YYText vs TextKit
 
-<img src="https://raw.github.com/ibireme/YYText/master/Attributes/architecture.pngchenyifyinformation$cc8888" width="400">
+<img src="https://raw.github.com/ibireme/YYText/master/Attributes/architecture.png111" width="400">
 
 
 Text Attributes
